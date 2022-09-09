@@ -1,4 +1,4 @@
-# All_In_Learning
+# All_In Learning
 This is a simple implementation of our paper: Learning All-In Collaborative Multiview Binary Representation for Clustering
 
 The paper can be found in here.
